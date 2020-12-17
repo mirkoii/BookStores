@@ -1,0 +1,9 @@
+To Do:
+
+- Creazione, Aggiornamento ed Eliminazione Dati Tabelle;
+
+- Gestire Foreign Key;
+
+- Gestire Token;
+
+- Gestire Privilegi;
